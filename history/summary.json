@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-pv6-test",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "83.06%",
+    "uptimeDay": "39.10%",
+    "uptimeWeek": "83.06%",
+    "uptimeMonth": "83.06%",
+    "uptimeYear": "83.06%",
     "time": 9,
     "timeDay": 9,
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
     "dailyMinutesDown": {
-      "2024-01-18": 0
+      "2024-01-19": 29,
+      "2024-01-18": 848
     }
   }
 ]

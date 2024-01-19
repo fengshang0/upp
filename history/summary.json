@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1495,
-    "timeDay": 1495,
+    "timeDay": 0,
     "timeWeek": 1495,
     "timeMonth": 1495,
     "timeYear": 1495,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 177,
+    "timeDay": 0,
     "timeWeek": 177,
     "timeMonth": 177,
     "timeYear": 177,
@@ -47,11 +47,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 98,
+    "timeDay": 0,
     "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-19": 0
+    }
   },
   {
     "name": "Test Broken Site",
@@ -77,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-pv6-test",
     "status": "down",
-    "uptime": "83.06%",
-    "uptimeDay": "39.10%",
-    "uptimeWeek": "83.06%",
-    "uptimeMonth": "83.06%",
-    "uptimeYear": "83.06%",
+    "uptime": "70.62%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "70.62%",
+    "uptimeMonth": "70.62%",
+    "uptimeYear": "70.62%",
     "time": 9,
-    "timeDay": 9,
+    "timeDay": 0,
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
     "dailyMinutesDown": {
-      "2024-01-19": 29,
+      "2024-01-19": 940,
       "2024-01-18": 848
     }
   }

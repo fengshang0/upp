@@ -42,18 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
     "timeDay": 308,
     "timeWeek": 238,
     "timeMonth": 238,
     "timeYear": 238,
-    "dailyMinutesDown": {
-      "2024-01-19": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -79,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-pv6-test",
     "status": "down",
-    "uptime": "70.48%",
+    "uptime": "64.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.48%",
-    "uptimeMonth": "70.48%",
-    "uptimeYear": "70.48%",
+    "uptimeWeek": "64.99%",
+    "uptimeMonth": "64.99%",
+    "uptimeYear": "64.99%",
     "time": 9,
     "timeDay": 0,
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
     "dailyMinutesDown": {
-      "2024-01-19": 953,
+      "2024-01-20": 28,
+      "2024-01-19": 1440,
       "2024-01-18": 848
     }
   }

@@ -4,7 +4,7 @@
     "url": "https://www.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2212,
     "timeMonth": 2192,
     "timeYear": 1955,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-29": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -79,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-pv6-test",
     "status": "down",
-    "uptime": "4.06%",
+    "uptime": "4.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "4.06%",
+    "uptimeYear": "4.04%",
     "time": 9,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 9,
     "dailyMinutesDown": {
-      "2024-03-29": 27,
+      "2024-03-29": 463,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
